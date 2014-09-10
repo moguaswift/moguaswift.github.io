@@ -255,11 +255,12 @@ figure.code:not(.panel), .gist {
     border: 1px solid #ddd;
     @include border-radius(5px);
     .highlight {
-        border-top: 1px solid #ddd;
+        border-top: 0px solid #ddd;
         @include border-radius(5px);
-        @include border-top-radius(0);
+        @include border-top-radius(5px);
     }
     figcaption {
+        display: none;
         padding: 10px 15px;
     }
     figcaption, .gist-file {
