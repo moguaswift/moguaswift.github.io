@@ -4,7 +4,7 @@
   <title><![CDATA[Swift 블로그]]></title>
   <link href="http://moguaswift.github.io/atom.xml" rel="self"/>
   <link href="http://moguaswift.github.io/"/>
-  <updated>2014-09-10T22:24:55+09:00</updated>
+  <updated>2014-09-10T22:27:28+09:00</updated>
   <id>http://moguaswift.github.io/</id>
   <author>
     <name><![CDATA[방준영]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[println("Hello, Swift")]]></title>
+    <link href="http://moguaswift.github.io/blog/2014/09/10/welcome-to-swift-blog/"/>
+    <updated>2014-09-10T22:06:03+09:00</updated>
+    <id>http://moguaswift.github.io/blog/2014/09/10/welcome-to-swift-blog</id>
+    <content type="html"><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Swift"><img class="center" src="http://moguaswift.github.io/images/Apus_apus.jpg"></a></p>
+]]></content>
+  </entry>
   
 </feed>
