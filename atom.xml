@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Swift 블로그]]></title>
   <link href="http://moguaswift.github.io/atom.xml" rel="self"/>
   <link href="http://moguaswift.github.io/"/>
-  <updated>2014-09-10T22:22:44+09:00</updated>
+  <updated>2014-09-10T22:24:55+09:00</updated>
   <id>http://moguaswift.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[방준영]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
